@@ -6,17 +6,13 @@ I'm currently learning Web Development and familiar with Machine learning and de
 <p align="center">When I'm not developing and coding, you can find me watching Anime, Netflix, Sports or listening to music. Playing football  was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
 
 
-<p align=center>
-  <a href="https://github.com/MohitKumar6122">
-    <img src="https://badges.pufler.dev/visits/Mohitkumar6122/Mohitkumar6122?style=flat-square&color=black&logo=github">
-  </a>
+![](https://komarev.com/ghpvc/?username=Mohitkumar6122&style=flat-square)
+  <a href="https://github.com/MohitKumar6122"></a>
   <a href="https://github.com/MohitKumar6122?tab=repositories">
     <img src="https://badges.pufler.dev/repos/Mohitkumar6122?style=flat-square&color=black&logo=github">
   </a>
-</p>
-<p align="center">
 <a href="https://github.com/Mohitkumar6122"><img src="https://img.shields.io/github/followers/Mohitkumar6122?style=social"></a>
-</p>
+
 <hr>
 <h2 align="center"> 🔭 Technology Stack</h2>
 <p align="center">
@@ -40,6 +36,11 @@ I'm currently learning Web Development and familiar with Machine learning and de
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Mohitkumar6122&layout=compact&hide=html&theme=jolly" alt="Mohitkumar6122" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+#### 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Mohitkumar6122/)](https://github.com/Mohitkumar6122/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohit-kumar6122/)](https://www.linkedin.com/in/mohit-kumar6122/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mkay6123@gmail.com)](mailto:mkay6123@gmail.com)
 
 
 
