@@ -33,9 +33,8 @@ I'm currently learning Web Development and familiar with Machine learning and de
 </p>
 
 <h2 align="center"> Github Statistics </h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mohitkumar6122&layout=compact&hide=html&theme=jolly" alt="Mohitkumar6122" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+
+![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohitkumar6122&show_icons=true&theme=radical)
 
 #### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Mohitkumar6122/)](https://github.com/Mohitkumar6122/) 
@@ -43,7 +42,4 @@ I'm currently learning Web Development and familiar with Machine learning and de
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mkay6123@gmail.com)](mailto:mkay6123@gmail.com)
 
 
-
-
-<img hight="200" width="300" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
