@@ -1,16 +1,47 @@
-### Hi there 👋
+<h2 align="center">Hello there! My name is Mohit Kumar. 👋🤓</h2>
+<p align="center">I'm currently a student pursuing my Bachelor of Technology in Computer Science and Engineering from NIT Hamirpur.
+I'm currently learning Web Development and familiar with Machine learning and deep learning 
+</p>
 
-<!--
-**Mohitkumar6122/Mohitkumar6122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">When I'm not developing and coding, you can find me watching Anime, Netflix, Sports or listening to music. Playing football  was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align=center>
+  <a href="https://github.com/MohitKumar6122">
+    <img src="https://badges.pufler.dev/visits/Mohitkumar6122/Mohitkumar6122?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/MohitKumar6122?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/Mohitkumar6122?style=flat-square&color=black&logo=github">
+  </a>
+</p>
+<p align="center">
+<a href="https://github.com/Mohitkumar6122"><img src="https://img.shields.io/github/followers/Mohitkumar6122?style=social"></a>
+</p>
+<hr>
+<h2 align="center"> 🔭 Technology Stack</h2>
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/c++%20-%231572B6.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=yellow" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML%20-%231572B6.svg?&style=for-the-badge&logo=html5&logoColor=red" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?&style=for-the-badge&logo=postcss&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/flask%20-%231572B6.svg?&style=for-the-badge&logo=flask&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/django%20-%231572B6.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSql%20-%231572B6.svg?&style=for-the-badge&logo=postgresql&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/tensorflow%20-%231572B6.svg?&style=for-the-badge&logo=tensorflow&logoColor=orange" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/heroku%20-%231572B6.svg?&style=for-the-badge&logo=heroku&logoColor=pink" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=red" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/react%20-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+</p>
+
+<h2 align="center"> Github Statistics </h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mohitkumar6122&layout=compact&hide=html&theme=jolly" alt="Mohitkumar6122" />&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+
+
+
