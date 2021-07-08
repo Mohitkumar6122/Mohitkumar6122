@@ -1,5 +1,5 @@
-<h2 align="center">Hello there! My name is Mohit Kumar. 👋🤓</h2>
-<p align="center">I'm currently a student pursuing my Bachelor of Technology in Computer Science and Engineering from NIT Hamirpur.
+<h2 align="center">Hello there! I'm Mohit Kumar. 👋🤓</h2>
+<p align="center">I'm currently a student pursuing my Bachelor of Technology in Computer Science and Engineering from NIT Hamirpur.<br>
 I'm currently learning Web Development and familiar with Machine learning and deep learning 
 </p>
 
