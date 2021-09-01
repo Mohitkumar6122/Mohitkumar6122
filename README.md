@@ -41,7 +41,7 @@ I'm currently learning Web Development and familiar with Machine learning and de
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Mohitkumar6122/)](https://github.com/Mohitkumar6122/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohit-kumar6122/)](https://www.linkedin.com/in/mohit-kumar6122/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mkay6123@gmail.com)](mailto:mkay6123@gmail.com)
-[![LeetCode_Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black&link=https://leetcode.com/Mkay6122/)](https://leetcode.com/Mkay6122/)
+<!-- [![LeetCode_Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black&link=https://leetcode.com/Mkay6122/)](https://leetcode.com/Mkay6122/) -->
 
 
 
