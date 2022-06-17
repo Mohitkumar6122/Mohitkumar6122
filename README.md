@@ -3,7 +3,7 @@
 I'm currently learning Web Development and familiar with Machine learning and deep learning, competitive coding and Open Source Development!  
 </p>
 
-<p align="center">When I'm not developing and coding, you can find me watching Anime, Netflix, Sports or listening to music. Playing football  was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
+<p align="center">When I'm not developing and coding, you can find me watching Anime, Netflix, Sports or listening to music. Memes are something that are appreciated very much 😂. </p>
 
 
 ![](https://komarev.com/ghpvc/?username=Mohitkumar6122&style=flat-square)
