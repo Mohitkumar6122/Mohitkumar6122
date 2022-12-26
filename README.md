@@ -1,6 +1,6 @@
 <h2 align="center">Hello there! I'm Mohit Kumar. 👋🤓</h2>
 <p align="center">I'm SDE working at Acko, pursued my Bachelor of Technology in Computer Science from NIT Hamirpur.<br>
-I'm currently working as a Full stack developer and familiar with Machine learning and deep learning, competitive coding and Open Source Development!  
+I'm currently working as a Full stack developer and familiar with Web Development, Machine learning and deep learning, competitive coding and Open Source Development!  
 </p>
 
 <p align="center">When I'm not developing and coding, you can find me watching Anime, Netflix, Sports or listening to music. Memes are something that are appreciated very much 😂. </p>
