@@ -34,7 +34,7 @@ I'm currently working as a Full stack developer and familiar with Web Developmen
 
 <h2 align="center"> Github Statistics </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mohitkumar6122&count_private=true&layout=compact&hide=html&theme=jolly" alt="Mohitkumar6122" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mohitkumar6122&count_private=true&layout=compact&hide=html&theme=jolly" alt="Mohitkumar6122" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 #### 📬 Find me at
