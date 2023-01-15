@@ -9,7 +9,7 @@ I'm currently working as a Full stack developer and familiar with Web Developmen
 ![](https://komarev.com/ghpvc/?username=Mohitkumar6122&style=flat-square)
   <a href="https://github.com/MohitKumar6122"></a>
   <a href="https://github.com/MohitKumar6122?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Mohitkumar6122?style=flat-square&color=black&logo=github">
+    <img src="shorturl.at/aKLZ9">
   </a>
 <a href="https://github.com/Mohitkumar6122"><img src="https://img.shields.io/github/followers/Mohitkumar6122?style=social"></a>
 
