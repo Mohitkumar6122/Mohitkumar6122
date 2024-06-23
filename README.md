@@ -31,17 +31,17 @@
   <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />&nbsp;&nbsp;
-  
 </p>
 <h2 align="center">📊 GitHub Statistics</h2>
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mohitkumar6122&count_private=true&layout=compact&hide=html&theme=jolly" alt="GitHub Stats" />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohitkumar6122" alt="GitHub Streak Stats" />
 </p>
 <h2 align="center">📬 Find me at</h2>
 <p align="center">
   <a href="https://github.com/Mohitkumar6122"><img src="http://img.shields.io/badge/-Github-black?style=flat-square&logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/mohit-kumar6122/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mkay6123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://leetcode.com/Mkay6122/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="LeetCode Badge"></a>
-
+  <a href="https://leetcode.com/Mkay6122/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="LeetCode Badge" /></a>
 </p>
