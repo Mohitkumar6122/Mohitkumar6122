@@ -35,7 +35,7 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mohitkumar6122&count_private=true&layout=compact&hide=html&theme=jolly" alt="GitHub Stats" />
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohitkumar6122" alt="GitHub Streak Stats" />
 </p>
 <h2 align="center">📬 Find me at</h2>
