@@ -5,7 +5,7 @@
   I specialize in Full Stack Development and have expertise in Web Development, Machine Learning, Deep Learning, Competitive Coding, and Open Source Development.
 </p>
 <p align="center">
-  When I'm not coding, I enjoy watching anime, Netflix, and sports. I also love listening to music and sharing memes 😂.
+  When I'm not coding, I enjoy watching anime, Netflix, and E-sports. I also love listening to music and sharing memes 😂.
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohitkumar6122&style=flat-square" alt="Profile Views" />
