@@ -1,6 +1,6 @@
 <h2 align="center">Hello there! I'm Mohit Kumar. 👋🤓</h2>
 <p align="center">
-  I'm a Frontend Developer at <strong>Nirvana</strong>. Previously worked as Full stack in [Acko](https://github.com/ackotech)
+  I'm a Frontend Developer at <strong>Nirvana</strong>. Previously worked as Full stack in [@ackotech](https://github.com/ackotech).
   I hold a Bachelor's degree in Computer Science from <strong>NIT Hamirpur</strong>. <br>
   I specialize in Full Stack Development and have expertise in Web Development, Machine Learning, Deep Learning, Competitive Coding, and Open Source Development.
 </p>
