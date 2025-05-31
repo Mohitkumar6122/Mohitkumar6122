@@ -18,6 +18,9 @@
   <img src="https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/reactquery-FF4154.svg?&style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/monorepo-000000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Monorepo" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=yellow" alt="Python" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
@@ -33,6 +36,7 @@
   <img src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />&nbsp;&nbsp;
 </p>
+
 <h2 align="center">📊 GitHub Statistics</h2>
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mohitkumar6122&count_private=true&layout=compact&hide=html&theme=jolly" alt="GitHub Stats" />
